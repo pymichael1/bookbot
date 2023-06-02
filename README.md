@@ -1,2 +1,2 @@
 # bookbot
-first_project_with_bootdev
+BookBot is my first git project!
